@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kacperfleming
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning React and Python
