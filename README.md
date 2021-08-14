@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kacperfleming
 - 👀 I’m interested in web development
-- 💡 I'm IT in Business student
+- 💡 I'm creative web developer and IT in Business student
 - 🌱 I’m currently learning React, Express and Python
